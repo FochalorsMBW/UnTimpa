@@ -1,0 +1,6 @@
+{
+  "name": "Pendeteksi Dokumen Asli Vs Hasil Timpaan",
+  "description": "Platform forensik deteksi dokumen & foto asli vs hasil manipulasi/timpaan teks, grafis palsu, OCR region masking, dan verifikasi sumber asli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
